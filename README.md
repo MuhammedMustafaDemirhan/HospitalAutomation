@@ -77,7 +77,7 @@ Doktorların randevuları görüntüleyip, tanı ve reçete oluşturabildiği pa
 
 1. Repository’yi klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/HastaneOtomasyonu.git
+   git clone https://github.com/MuhammedMustafaDemirhan/HospitalAutomation.git
    
 2. Proje dizinine gidin ve bağımlılıkları yükleyin:
    ```bash
