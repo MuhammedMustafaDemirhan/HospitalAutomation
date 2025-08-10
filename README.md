@@ -1,12 +1,99 @@
-# React + Vite
+# Hastane Otomasyonu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Proje Hakkında  
+Bu proje, React kullanılarak geliştirilmiş, Hasta, Doktor ve Yönetici için ayrı ayrı panellerin bulunduğu kapsamlı bir Hastane Yönetim Sistemi frontend uygulamasıdır.
 
-Currently, two official plugins are available:
+Her kullanıcı tipi için farklı işlevler ve kullanıcı deneyimleri sunulmaktadır. Giriş yapan kullanıcının verileri localStorage'da tutulur ve kullanıcı çıkış yaptığında bu bilgiler temizlenir. Proje, backend bağlantısı olmadan mock-data altındaki JSON dosyaları üzerinde çalışmaktadır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Kullanıcı Panelleri ve Özellikleri
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Yönetici Paneli  
+- Kullanıcı Yönetimi  
+- Departman Yönetimi  
+- Randevu Takibi  
+- Duyuru/Mesaj Yayınlama  
+- Şikayet ve Geri Bildirimleri Görüntüleme  
+- Tanıları Yönetme  
+
+### Doktor Paneli  
+- Randevu Görüntüleme  
+- Randevu Durum Güncelleme  
+- Tanı Koyma  
+- Test ve Tahlil İsteme  
+- Reçete Oluşturma  
+- Tahlil İsteklerini ve Sonuçlarını Görüntüleme  
+- Duyuruları Görüntüleme  
+
+### Hasta Paneli  
+- Randevu Alma  
+- Reçete Görüntüleme  
+- Tahlil ve Test Sonuçlarını Görüntüleme  
+- Duyuruları Görüntüleme  
+- Şikayet ve Geri Bildirim Oluşturma  
+
+---
+
+## Ekran Görüntüleri
+
+### Giriş Ekranı  
+Uygulamaya kullanıcıların giriş yaptığı sade ve kullanıcı dostu ekran.
+
+![Giriş Ekranı](/images/girispanel.png)
+
+---
+
+### Doktor Paneli  
+Doktorların randevuları görüntüleyip, tanı ve reçete oluşturabildiği panel.
+
+![Doktor Paneli](/images/doktorpanel.png)
+
+---
+
+## Kullanılan React Özellikleri ve Teknikler
+
+- **useState**: State yönetimi için  
+- **useEffect**: Yan etkileri kontrol etmek için  
+- **props**: Bileşenler arası veri aktarımı için  
+- **map()**: Liste render etmek için  
+- **BrowserRouter, Routes, Route**: Sayfa yönlendirmeleri ve rota yönetimi için  
+- **Navigate, useNavigate()**: Programatik navigasyon için  
+- **createContext(), useContext()**: Global state yönetimi için  
+- **AuthProvider**: Kullanıcı kimlik doğrulama ve yetkilendirme context'i  
+- **ProtectedRoute**: Yetkisiz erişimi engellemek için özel rota bileşeni  
+- **onSubmit, formik**: Form yönetimi ve validasyon için  
+- **Basit validasyon**: Form doğrulamaları için  
+- **localStorage, removeItem(), getItem()**: Kullanıcı verilerinin kalıcı tutulması ve temizlenmesi için  
+
+---
+
+## Kurulum ve Çalıştırma
+
+### Ön Koşullar  
+- Node.js (React uygulaması için)  
+
+### Adımlar  
+
+1. Repository’yi klonlayın:
+   ```bash
+   git clone https://github.com/kullaniciadi/HastaneOtomasyonu.git
+   
+2. Proje dizinine gidin ve bağımlılıkları yükleyin:
+   ```bash
+   cd HastaneOtomasyonu
+    npm install
+
+3. Uygulamayı başlatın:
+   ```bash
+   npm run dev
+   O + Enter
+
+## İletişim
+
+Her türlü soru, öneri veya geri bildirim için benimle iletişime geçebilirsiniz:
+
+- **E-posta:** [muhammedmustafademirhan@gmail.com](mailto:muhammedmustafademirhan@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhammedmustafademirhan](https://www.linkedin.com/in/muhammedmustafademirhan/)  
+- **Instagram:** [instagram.com/mami.dmrhn](https://www.instagram.com/mami.dmrhn/)
+
