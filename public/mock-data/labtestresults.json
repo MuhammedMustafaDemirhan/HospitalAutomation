@@ -1,0 +1,20 @@
+[
+  {
+    "LabResultID": 1,
+    "LabRequestID": 1,
+    "ResultDescription": "Sinüs ritmi ve normal kalp hızı gözlenmiştir. Herhangi bir aritmi veya iskemik bulgu saptanmamıştır.",
+    "ResultDate": "2025-07-15T09:00:00"
+  },
+  {
+    "LabResultID": 2,
+    "LabRequestID": 2,
+    "ResultDescription": "Akciğer parankiminde herhangi bir kitle veya infiltrasyon izlenmemiştir. Mediastinal yapılar normaldir.",
+    "ResultDate": "2025-07-15T09:00:00"
+  },
+  {
+    "LabResultID": 3,
+    "LabRequestID": 3,
+    "ResultDescription": "Beyin yapıları normal sinyal özelliklerindedir. Patolojik lezyon veya kontrast tutulumu yoktur.",
+    "ResultDate": "2025-07-15T09:00:00"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "TestResultID": 1,
+    "TestRequestID": 1,
+    "Result": "test1",
+    "ResultDate": "2025-07-15T09:00:00"
+  },
+  {
+    "TestResultID": 2,
+    "TestRequestID": 2,
+    "Result": "test2",
+    "ResultDate": "2025-07-15T09:00:00"
+  },
+  {
+    "TestResultID": 3,
+    "TestRequestID": 3,
+    "Result": "test3",
+    "ResultDate": "2025-07-15T09:00:00"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DepartmentID": 1,
+    "Name": "Ortopedi ve Travmatoloji"
+  },
+  {
+    "DepartmentID": 2,
+    "Name": "Dahiliye"
+  },
+  {
+    "DepartmentID": 3,
+    "Name": "Kardiyoloji"
+  },
+  {
+    "DepartmentID": 4,
+    "Name": "Nöroloji"
+  },
+  {
+    "DepartmentID": 5,
+    "Name": "KBB (Kulak Burun Boğaz)"
+  },
+  {
+    "DepartmentID": 6,
+    "Name": "Göz Hastalıkları"
+  }
+]

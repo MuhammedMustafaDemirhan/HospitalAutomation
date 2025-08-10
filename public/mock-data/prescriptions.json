@@ -1,0 +1,17 @@
+[
+  {
+    "PrescriptionID": 1,
+    "AppointmentID": 1,
+    "CreatedDate": "2025-07-15T09:00:00"
+  },
+  {
+    "PrescriptionID": 2,
+    "AppointmentID": 2,
+    "CreatedDate": "2025-07-15T09:00:00"
+  },
+  {
+    "PrescriptionID": 3,
+    "AppointmentID": 1,
+    "CreatedDate": "2025-07-15T09:00:00"
+  }
+]

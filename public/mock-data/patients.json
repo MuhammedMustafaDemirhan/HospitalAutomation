@@ -1,0 +1,14 @@
+[
+  {
+    "PatientID": 1,
+    "UserID": 1,
+    "BirthDate": "26.05.2000",
+    "Gender": "Erkek"
+  },
+  {
+    "PatientID": 2,
+    "UserID": 2,
+    "BirthDate": "26.07.2000",
+    "Gender": "Erkek"
+  }
+]

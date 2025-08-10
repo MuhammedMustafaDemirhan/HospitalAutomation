@@ -1,0 +1,18 @@
+[
+  {
+    "AppointmentID": 1,
+    "PatientID": 1,
+    "DoctorID": 1,
+    "AppointmentDate": "2025-07-15T09:00:00",
+    "Status": "Bekliyor",
+    "Notes": "Aciliyeti var."
+  },
+  {
+    "AppointmentID": 2,
+    "PatientID": 2,
+    "DoctorID": 1,
+    "AppointmentDate": "2025-07-15T09:30:00",
+    "Status": "Bekliyor",
+    "Notes": "Zehirlenme vakası."
+  }
+]

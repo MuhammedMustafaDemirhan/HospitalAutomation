@@ -1,0 +1,122 @@
+[
+  {
+    "UserID": 1,
+    "Name": "Ahmet",
+    "Surname": "Özeler",
+    "Email": "ahmozlr@gmail.com",
+    "Password": "ahmo123",
+    "RoleID": 1
+  },
+  {
+    "UserID": 2,
+    "Name": "Furkan",
+    "Surname": "Ertuğrul",
+    "Email": "frknertgrl@gmail.com",
+    "Password": "frkn123",
+    "RoleID": 1
+  },
+  {
+    "UserID": 3,
+    "Name": "Muhammed Mustafa",
+    "Surname": "Demirhan",
+    "Email": "mamidmrhn@gmail.com",
+    "Password": "mami123",
+    "RoleID": 3
+  },
+  {
+    "UserID": 4,
+    "Name": "Ayşe",
+    "Surname": "Yıldız",
+    "Email": "ayse.yildiz@demo.com",
+    "Password": "ayse123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 5,
+    "Name": "Mehmet",
+    "Surname": "Kurt",
+    "Email": "mehmet.kurt@demo.com",
+    "Password": "mehmet123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 6,
+    "Name": "Zeynep",
+    "Surname": "Koç",
+    "Email": "zeynep.koc@demo.com",
+    "Password": "zeynep123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 7,
+    "Name": "Hasan",
+    "Surname": "Aydın",
+    "Email": "hasan.aydin@demo.com",
+    "Password": "hasan123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 8,
+    "Name": "Elif",
+    "Surname": "Şahin",
+    "Email": "elif.sahin@demo.com",
+    "Password": "elif123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 9,
+    "Name": "Burak",
+    "Surname": "Demir",
+    "Email": "burak.demir@demo.com",
+    "Password": "burak123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 10,
+    "Name": "Fatma",
+    "Surname": "Öztürk",
+    "Email": "fatma.ozturk@demo.com",
+    "Password": "fatma123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 11,
+    "Name": "Selim",
+    "Surname": "Çelik",
+    "Email": "selim.celik@demo.com",
+    "Password": "selim123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 12,
+    "Name": "Derya",
+    "Surname": "Kaya",
+    "Email": "derya.kaya@demo.com",
+    "Password": "derya123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 13,
+    "Name": "Kerem",
+    "Surname": "Balcı",
+    "Email": "kerem.balci@demo.com",
+    "Password": "kerem123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 14,
+    "Name": "Nazan",
+    "Surname": "Yalçın",
+    "Email": "nazan.yalcin@demo.com",
+    "Password": "nazan123",
+    "RoleID": 2
+  },
+  {
+    "UserID": 15,
+    "Name": "Umut",
+    "Surname": "Ersoy",
+    "Email": "umut.ersoy@demo.com",
+    "Password": "umut123",
+    "RoleID": 2
+  }
+]

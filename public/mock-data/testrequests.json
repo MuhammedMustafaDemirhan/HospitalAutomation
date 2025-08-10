@@ -1,0 +1,20 @@
+[
+  {
+    "TestRequestID": 1,
+    "AppointmentID": 1,
+    "TestType": 1,
+    "RequestDate": "2025-07-19T09:00:00"
+  },
+  {
+    "TestRequestID": 2,
+    "AppointmentID": 2,
+    "TestType": 3,
+    "RequestDate": "2025-07-20T09:00:00"
+  },
+  {
+    "TestRequestID": 3,
+    "AppointmentID": 1,
+    "TestType": 2,
+    "RequestDate": "2025-07-16T09:00:00"
+  }
+]

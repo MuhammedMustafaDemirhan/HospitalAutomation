@@ -1,0 +1,37 @@
+[
+  {
+    "TestID": 1,
+    "TestName": "MR",
+    "Description": "Manyetik rezonans görüntüleme, yumuşak doku detaylarını gösterir.",
+    "TypicalDurationMinutes": 45,
+    "Preparation": "Metal eşyalar çıkarılmalı, hamilelik durumu bildirilmelidir."
+  },
+  {
+    "TestID": 2,
+    "TestName": "Röntgen",
+    "Description": "Kemik ve bazı organların röntgen ışınları ile görüntülenmesi.",
+    "TypicalDurationMinutes": 15,
+    "Preparation": "Metal takılar çıkarılmalı."
+  },
+  {
+    "TestID": 3,
+    "TestName": "Tomografi",
+    "Description": "Bilgisayarlı tomografi (BT) ile detaylı kesit görüntüler alınır.",
+    "TypicalDurationMinutes": 30,
+    "Preparation": "Bazı durumlarda kontrast madde kullanılabilir."
+  },
+  {
+    "TestID": 4,
+    "TestName": "Ultrason",
+    "Description": "Ses dalgaları ile organların görüntülenmesi, radyasyon içermez.",
+    "TypicalDurationMinutes": 20,
+    "Preparation": "İdrar kesesi dolu olmalı veya aç karnına olunabilir."
+  },
+  {
+    "TestID": 5,
+    "TestName": "EKG",
+    "Description": "Kalp elektriksel aktivitesinin kaydı.",
+    "TypicalDurationMinutes": 10,
+    "Preparation": "Rahat olunmalı, cilt temiz olmalı."
+  }
+]

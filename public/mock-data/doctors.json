@@ -1,0 +1,62 @@
+[
+  {
+    "DoctorID": 1,
+    "UserID": 4,
+    "DepartmentID": 1
+  },
+  {
+    "DoctorID": 2,
+    "UserID": 5,
+    "DepartmentID": 1
+  },
+  {
+    "DoctorID": 3,
+    "UserID": 6,
+    "DepartmentID": 2
+  },
+  {
+    "DoctorID": 4,
+    "UserID": 7,
+    "DepartmentID": 2
+  },
+  {
+    "DoctorID": 5,
+    "UserID": 8,
+    "DepartmentID": 3
+  },
+  {
+    "DoctorID": 6,
+    "UserID": 9,
+    "DepartmentID": 3
+  },
+  {
+    "DoctorID": 7,
+    "UserID": 10,
+    "DepartmentID": 4
+  },
+  {
+    "DoctorID": 8,
+    "UserID": 11,
+    "DepartmentID": 4
+  },
+  {
+    "DoctorID": 9,
+    "UserID": 12,
+    "DepartmentID": 5
+  },
+  {
+    "DoctorID": 10,
+    "UserID": 13,
+    "DepartmentID": 5
+  },
+  {
+    "DoctorID": 11,
+    "UserID": 14,
+    "DepartmentID": 6
+  },
+  {
+    "DoctorID": 12,
+    "UserID": 15,
+    "DepartmentID": 6
+  }
+]

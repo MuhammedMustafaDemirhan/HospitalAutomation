@@ -1,0 +1,23 @@
+[
+  {
+    "DetailID": 1,
+    "PrescriptionID": 1,
+    "MedicineName": "Parol 500 mg",
+    "Dosage": "Günde 3 kez, 1 tablet",
+    "UsageDetails": "Yemeklerle birlikte alınacak, 5 gün süreyle kullanılacak"
+  },
+  {
+    "DetailID": 2,
+    "PrescriptionID": 2,
+    "MedicineName": "Amoksisilin 500 mg",
+    "Dosage": "Günde 2 kez, 1 kapsül",
+    "UsageDetails": "Aç karnına alınacak, 7 gün boyunca kullanılacak"
+  },
+  {
+    "DetailID": 3,
+    "PrescriptionID": 3,
+    "MedicineName": "Diclofenac 50 mg",
+    "Dosage": "Günde 2 kez, 1 tablet",
+    "UsageDetails": "Ağrı durumunda alınacak, en fazla 5 gün kullanılacak"
+  }
+]

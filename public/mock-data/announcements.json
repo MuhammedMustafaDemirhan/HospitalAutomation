@@ -1,0 +1,30 @@
+[
+  {
+    "AnnouncementID": 1,
+    "Title": "Duyuru 1",
+    "Content": "COVID-19 test protokolü değişti. Ön kayıt şart. Bilginize!",
+    "CreatedDate": "2025-07-15T09:00:00",
+    "TargetRoleID": 2
+  },
+  {
+    "AnnouncementID": 2,
+    "Title": "Duyuru 2",
+    "Content": "Eğitim toplantısı 10 Temmuz’da. Katılımınızı bekliyoruz.",
+    "CreatedDate": "2025-07-15T09:00:00",
+    "TargetRoleID": 2
+  },
+  {
+    "AnnouncementID": 3,
+    "Title": "Duyuru 1",
+    "Content": "Grip aşıları başladı. Randevu için arayınız. Sağlıklı kalın!",
+    "CreatedDate": "2025-07-15T09:00:00",
+    "TargetRoleID": 1
+  },
+  {
+    "AnnouncementID": 4,
+    "Title": "Duyuru 2",
+    "Content": "COVID-19 test protokolü değişti. Ön kayıt şart. Bilginize!",
+    "CreatedDate": "2025-07-15T09:00:00",
+    "TargetRoleID": 1
+  }
+]

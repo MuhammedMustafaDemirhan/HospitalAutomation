@@ -1,0 +1,72 @@
+[
+  {
+    "DiagnosisID": 1,
+    "DiagnosisText": "[I10] Hipertansiyon",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-15T12:34:56",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 2,
+    "DiagnosisText": "[E11] Diyabet Tip 2",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-16T09:12:34",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 3,
+    "DiagnosisText": "[J45] Astım",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-16T14:23:11",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 4,
+    "DiagnosisText": "[D64.9] Anemi, tanımlanmamış",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T08:45:00",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 5,
+    "DiagnosisText": "[G43] Migren",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T10:15:30",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 6,
+    "DiagnosisText": "[F32] Depresyon, majör depresif bozukluk",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T11:00:00",
+    "IsApproved": false
+  },
+  {
+    "DiagnosisID": 7,
+    "DiagnosisText": "[K21] Gastroözofageal Reflü Hastalığı",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T12:10:45",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 8,
+    "DiagnosisText": "[K58] İrritabl Bağırsak Sendromu (IBS)",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T13:25:00",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 9,
+    "DiagnosisText": "[M19] Osteoartrit",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T14:40:20",
+    "IsApproved": true
+  },
+  {
+    "DiagnosisID": 10,
+    "DiagnosisText": "[I95] Tansiyon Düşüklüğü",
+    "CreatedBy": 4,
+    "CreatedDate": "2025-07-17T15:05:00",
+    "IsApproved": false
+  }
+]

@@ -1,0 +1,85 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.login-background {
+  position: relative;
+  background-image: url("/images/hospital.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.login-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.login-background .card {
+  position: relative;
+  z-index: 2;
+}
+
+.sidebar {
+  width: 280px;
+  background-color: #007bff;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  border-right: 1px solid #0056b3;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.sidebar-title {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  font-size: 1.4rem;
+  user-select: none;
+}
+
+.sidebar-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-item {
+  padding: 0.6rem 0.8rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+  user-select: none;
+}
+
+.sidebar-item:hover {
+  background-color: #0056b3;
+}
+
+.sidebar-item.active {
+  background-color: white;
+  color: #007bff;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.6);
+}
+
+.logout-container {
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "FeedbackID": 1,
+    "PatientID": 1,
+    "Message": "Hizmet çok iyiydi, personel güler yüzlüydü.",
+    "SentDate": "2025-07-17T09:00:00"
+  },
+  {
+    "FeedbackID": 2,
+    "PatientID": 2,
+    "Message": "Randevu sistemi daha hızlı olabilir.",
+    "SentDate": "2025-07-17T10:15:00"
+  },
+  {
+    "FeedbackID": 3,
+    "PatientID": 1,
+    "Message": "Doktor çok ilgiliydi, teşekkür ederim.",
+    "SentDate": "2025-07-16T14:30:00"
+  },
+  {
+    "FeedbackID": 4,
+    "PatientID": 2,
+    "Message": "Bekleme süresi biraz uzundu.",
+    "SentDate": "2025-07-15T11:45:00"
+  },
+  {
+    "FeedbackID": 5,
+    "PatientID": 1,
+    "Message": "Temizlik ve hijyen kurallarına dikkat ediliyor.",
+    "SentDate": "2025-07-14T16:20:00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "TestID": 1,
+    "TestName": "Kan Testi"
+  },
+  {
+    "TestID": 2,
+    "TestName": "Tam Kan Sayımı (CBC)"
+  },
+  {
+    "TestID": 3,
+    "TestName": "Biyokimya Paneli"
+  },
+  {
+    "TestID": 4,
+    "TestName": "Lipid Paneli"
+  },
+  {
+    "TestID": 5,
+    "TestName": "Tiroid Fonksiyon Testleri"
+  },
+  {
+    "TestID": 6,
+    "TestName": "İdrar Tahlili"
+  },
+  {
+    "TestID": 7,
+    "TestName": "CRP (C-Reaktif Protein)"
+  },
+  {
+    "TestID": 8,
+    "TestName": "Hepatit B ve C Serolojisi"
+  },
+  {
+    "TestID": 9,
+    "TestName": "Glukoz Tolerans Testi"
+  },
+  {
+    "TestID": 10,
+    "TestName": "Vitamin D Seviyesi"
+  }
+]
